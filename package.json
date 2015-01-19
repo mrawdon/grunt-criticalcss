@@ -29,7 +29,7 @@
 		"test": "grunt test"
 	},
 	"dependencies": {
-		"criticalcss": "https://github.com/mrawdon/criticalCSS.git#113da50d65812945b35f020e07996535a90f7fd9"
+		"criticalcss": "mrawdon/criticalCSS"
 	},
 	"devDependencies": {
 		"grunt-contrib-jshint": "~0.6.0",
